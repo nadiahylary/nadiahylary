@@ -64,7 +64,7 @@ A continuación se presentan algunos datos sobre mí:
 ##### Nota: Por favor, sigo siendo un profesional en crecimiento, así que si tiene alguna sugerencia sobre mi perfil de github y/o sobre mi trabajo, 
 me sentiré honrado de recibir algunos comentarios profesionales.
 
-Vamos a conectarnos [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/)!
+Vamos a conectarnos en [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/)!
 
 <!--
 **nadiahylary/nadiahylary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
