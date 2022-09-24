@@ -16,7 +16,7 @@ Below are some facts about me:
 - 😇 Quote that best describes me: 
 >Do what is right, not what is easy. To yourself, you should always remain true.
 
-##### Note: Please I am still an growing professional so if you have any suggestions about my github profile and/or on my work, I'll be honored to get some professional feedback.
+##### Note: Please I am still a starting professional so if you have any suggestions about my github profile and/or on my work, I'll be honored to get some professional feedback.
 Let's connect on [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/)! 
 
 
