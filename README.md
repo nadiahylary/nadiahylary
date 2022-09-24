@@ -16,7 +16,7 @@ Below are some facts about me:
 - 😇 Quote that best describes me: 
 >Do what is right, not what is easy. To yourself, you should always remain true.
 
-##### Note: Please I am still an growing professional so if you have any recommendations or suggestions about my github profile and/or on my work, I'll be honored to get some professional feedback.
+##### Note: Please I am still an growing professional so if you have any suggestions about my github profile and/or on my work, I'll be honored to get some professional feedback.
 Let's connect on [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/)! 
 
 
@@ -27,7 +27,7 @@ Pour les impatients, rendez-vous [ici](https://nadiahylary.github.io/) directeme
 
 Voici quelques faits sur moi:
 
-- 🔭 Je travaille actuellement sur : une application mobile e-commerce avec système de recommandation et recherche intelligente
+- 🔭 Je travaille actuellement sur: une application mobile e-commerce avec système de recommandation et recherche intelligente
 - 🌱 J'apprends actuellement l'analyse de données/science et ML, le développement d'applications multiplateformes avec flutter, le cloud computing et DevOps.
 - 👯 Je cherche à collaborer sur un projet de science des données/analyse et/ou d'apprentissage automatique ou de développement d'applications java
 - 🤔 Je cherche de l'aide pour le développement du flutter
@@ -38,7 +38,7 @@ Voici quelques faits sur moi:
 - 😇 Citation qui me décrit le mieux :
 > Fais ce qui est bien, pas ce qui est facile. à toi, vous devez toujours rester fidèle.
 
-##### Remarque : S'il vous plaît, je suis toujours un professionnel en pleine croissance, donc si vous avez des recommandations ou des suggestions sur mon profil github et/ou sur mon travail, je serai honoré de recevoir des retours professionnels.
+##### NB: S'il vous plaît, je suis encore un professionnel en pleine croissance, donc si vous avez des suggestions sur mon profil github et/ou sur mon travail, je serai honoré de recevoir des retours professionnels.
 
 Connectons-nous sur [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/) !
 
@@ -46,7 +46,7 @@ Connectons-nous sur [linkedIn](https://www.linkedin.com/in/nadia-hylary-45588918
 # Español
 ### Hola 👋
 ¡Bienvenido a mi perfil de github! Espero que lo encuentres interesante aquí.
-Para los impacientes, diríjase [aquí] (https://nadiahylary.github.io/) directamente a mi cartera.
+Para los impacientes, diríjase [aquí](https://nadiahylary.github.io/) directamente a mi portafolio.
 
 A continuación se presentan algunos datos sobre mí:
 
@@ -61,7 +61,7 @@ A continuación se presentan algunos datos sobre mí:
 - 😇 Frase que mejor me describe:
 >Haz lo correcto, no lo fácil. A ti, siempre debes ser fiel.
 
-##### Nota: Por favor, sigo siendo un profesional en crecimiento, así que si tiene alguna recomendación o sugerencia sobre mi perfil de github y/o sobre mi trabajo, 
+##### Nota: Por favor, sigo siendo un profesional en crecimiento, así que si tiene alguna sugerencia sobre mi perfil de github y/o sobre mi trabajo, 
 me sentiré honrado de recibir algunos comentarios profesionales.
 
 Vamos a conectarnos [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/)!
