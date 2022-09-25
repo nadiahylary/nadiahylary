@@ -12,7 +12,7 @@ Below are some facts about me:
 - 💬 Ask me about java and spring boot development
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/) or [email](mail.to/nadia.hylary@esprit.tn)
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: I have multiple passions and I speak 3 languages (english, français and espagnol) and I'm learning German
+- ⚡ Fun fact: I have multiple passions
 - 😇 Quote that best describes me: 
 >Do what is right, not what is easy. To yourself, you should always remain true.
 
@@ -34,7 +34,7 @@ Voici quelques faits sur moi:
 - 💬 Interrogez-moi sur le développement de Java et Spring Boot
 - 📫 Comment me joindre : [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/) ou [email](mail.to/nadia.hylary@esprit.tn)
 - 😄 Pronoms : elle/elle
-- ⚡ Fun fact : j'ai de multiples passions et je parle 3 langues (anglais, français et espagnol) et j'apprends l'allemand
+- ⚡ Fun fact : j'ai de multiples passions
 - 😇 Citation qui me décrit le mieux :
 > Fais ce qui est bien, pas ce qui est facile. à toi, vous devez toujours rester fidèle.
 
@@ -57,7 +57,7 @@ A continuación se presentan algunos datos sobre mí:
 - 💬 Pregúntame sobre el desarrollo de Java y Spring Boot
 - 📫 Cómo contactarme: [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/) o [correo electrónico](mail.to/nadia.hylary@esprit.tn)
 - 😄 Pronombres: ella/ella
-- ⚡ Dato curioso: tengo múltiples pasiones y hablo 3 idiomas (inglés, francés y espagnol) y estoy aprendiendo alemán
+- ⚡ Dato curioso: tengo múltiples pasiones
 - 😇 Frase que mejor me describe:
 >Haz lo correcto, no lo fácil. A ti, siempre debes ser fiel.
 
