@@ -14,7 +14,7 @@ Below are some facts about me:
 - ⚡ Fun fact: I have multiple passions
 - 😇 Quotes that best describes me: 
 >Do what is right, not what is easy. 
->To yourself, you should always remain true.
+
 
 
 # Français
