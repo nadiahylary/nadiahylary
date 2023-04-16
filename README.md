@@ -15,21 +15,3 @@ Below are some facts about me:
 - 😇 Quotes that best describes me: 
 >Do what is right, not what is easy. 
 
-
-
-# Français
-### Bonjour 👋
-Bienvenue sur mon profil github ! J'espère que vous le trouverez intéressant ici.
-Pour les impatients, rendez-vous [ici](https://nadiahylary.github.io/) directement sur mon portfolio.
-
-Voici quelques faits sur moi:
-
-- 🔭 Je travaille actuellement sur: un site web e-commerce pour une entreprise spécialisée dans la production des meubles en bois.
-- 🌱 J'apprends actuellement le développement d'applications multiplateformes avec flutter, Django et DevOps.
-- 👯 Je cherche à collaborer sur des projet en flutter et Django 
-- 💬 Interrogez-moi sur le développement de Java et Python 3.
-- 📫 Comment me joindre : [linkedIn](https://www.linkedin.com/in/nadia-hylary-455889182/) ou [email](mail.to/nadia.hylary@esprit.tn)
-- 😄 Pronoms : elle/elle
-- ⚡ Fun fact : j'ai de multiples passions
-- 😇 Citation qui me décrit le mieux :
-> Fais ce qui est bien, pas ce qui est facile.
