@@ -1,7 +1,7 @@
 # English 
 ### Hi there 👋
 Welcome to my github profile! I hope you find it interesting here.
-For the impatient ones, head on [here](https://nadiahylary.github.io/) directly to my portfolio. 
+<!-- For the impatient ones, head on [here](https://nadiahylary.github.io/) directly to my portfolio. 
 
 Below are some facts about me:
 
@@ -13,5 +13,5 @@ Below are some facts about me:
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I have multiple passions
 - 😇 Quotes that best describes me: 
->Do what is right, not what is easy. 
+>Do what is right, not what is easy.  -->
 
