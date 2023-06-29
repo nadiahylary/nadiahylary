@@ -1,6 +1,7 @@
 <!-- # English  -->
 ### Hi there 👋
-Welcome to my github profile! Checkout the interesting small projects I had fun building..
+Welcome to my github profile! Checkout the interesting small projects I had fun building.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nadiahylary)](https://git.io/streak-stats)
 <!-- For the impatient ones, head on [here](https://nadiahylary.github.io/) directly to my portfolio. 
 
 Below are some facts about me:
