@@ -3,7 +3,7 @@
 Welcome to my github profile! Checkout the interesting small projects I had fun building.
 🌱
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nadiahylary&theme=radical&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nadiahylary&theme=radical&card_width=700)](https://git.io/streak-stats)
 <!-- For the impatient ones, head on [here](https://nadiahylary.github.io/) directly to my portfolio. 
 
 Below are some facts about me:
