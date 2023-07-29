@@ -3,7 +3,7 @@
 Welcome to my github profile! Check out the interesting small projects I had fun building.
 🌱
 
-Head on [here](https://nadiahylary.github.io/) directly to my portfolio.
+Or head on directly to [my portfolio](https://nadiahylary.github.io/) 😇. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nadiahylary&theme=radical&card_width=700)](https://git.io/streak-stats)
 <!-- For the impatient ones, head on [here](https://nadiahylary.github.io/) directly to my portfolio. 
