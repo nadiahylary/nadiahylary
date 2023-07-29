@@ -1,6 +1,6 @@
 <!-- # English  -->
 ### Hi there 👋
-Welcome to my github profile! Check out the interesting small projects I had fun building.
+Welcome to my github profile! Check out the interesting projects I had fun building.
 🌱
 
 Or head on directly to [my portfolio](https://nadiahylary.github.io/) 😇. 
