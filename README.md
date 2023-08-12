@@ -5,7 +5,7 @@ Welcome to my github profile! Check out the interesting projects I had fun build
 
 Or head on directly to [my portfolio](https://nadiahylary.github.io/) 😇. 
 
-### [GitHub Profile Languages Stats](https://ionicabizau.github.io/github-profile-languages/api.html?@nadiahylary)
+### [GitHub Profile Programming Languages Stats](https://ionicabizau.github.io/github-profile-languages/api.html?@nadiahylary)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nadiahylary&theme=radical&card_width=700)](https://git.io/streak-stats)
 
